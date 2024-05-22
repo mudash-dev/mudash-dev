@@ -1,4 +1,7 @@
-![Header](./[github-header-image.png])
+<p >
+  <img  src="https://github.com/mudash-dev/mudash-dev/assets/62433482/7ed14bac-e658-4ea0-a84c-f0224b552172"/>
+</p>
+
 
 
 

@@ -1,4 +1,5 @@
 
+![Header](./[github-header-image.png])
 
 
 # About Me
@@ -53,12 +54,5 @@ hobbies: ["Gaming","Anime","Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="45" height="45"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="45" height="45"/>
-          
-          
-          
-          
-          
-          
-          
-          
+                    
 </p>

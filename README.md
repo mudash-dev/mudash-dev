@@ -8,6 +8,7 @@
 # About Me
 ```yaml
 name: Mudambaji Ashley
+contacts: ashleymudambaji@gmail.com 
 located_in: Nairobi, Kenya
 education:
   [

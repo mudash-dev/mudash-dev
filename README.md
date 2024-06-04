@@ -11,7 +11,7 @@ name: Mudambaji Ashley
 located_in: Nairobi, Kenya
 education:
   [
-    "Self-Taught Developer",
+    "Self-Taught Android Developer",
     "Bachelor of Science in Information Technology
   ]
 
@@ -19,9 +19,9 @@ fields_of_interests:
   [
     "Android Development"
     "Flutter"
-    "Game Development"
+    "Game Development(Python)"
     "React Native Development"
-    "Web Dev"
+    "Web Dev(ReactJS)"
   ]
 technical_background:
   [

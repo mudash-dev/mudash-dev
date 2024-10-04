@@ -1,5 +1,5 @@
 <p >
-  <img  src="https://github.com/mudash-dev/mudash-dev/blob/master/new%20github-header-image.png" width="800" height="200"/>
+  <img  src="https://github.com/mudash-dev/mudash-dev/blob/master/new%20github-header-image.png" width="850" height="200"/>
 </p>
 
 

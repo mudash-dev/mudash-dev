@@ -12,14 +12,14 @@ contacts: ashleymudambaji@gmail.com
 located_in: Nairobi, Kenya
 education:
   [
-    "Self-Taught Android & Flutter Developer",
+    "Self-Taught NodeJs/ExpressJs and  Android Developer",
     "Bachelor of Science in Information Technology
   ]
 
 fields_of_interests:
   [
+    "Back End Development"
     "Android Development"
-    "Flutter"
     "Game Development(Python)"
     "React Native Development"
     "Web Dev(ReactJS)"
